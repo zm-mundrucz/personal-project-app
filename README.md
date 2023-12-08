@@ -81,5 +81,5 @@ http://127.0.0.1:8000/order/{pizza-id}
 - Example: http://127.0.0.1:8000/order/12650
 10. Future enhancements:
 
-    - In the next phase of development, we plan to add a simple button to directly view the order status.
-And that’s it! We hope you enjoy using the Pizza Tracker App. 🍕🚀
+    - In the next phase of development, I plan to add a simple button to directly view the order status.
+And that’s it! I hope you enjoy using the Pizza Tracker App. 🍕🚀
