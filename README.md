@@ -20,16 +20,16 @@ cd "in the root folder where you cloned this app"
 cp .env.example .env
 ```
     
-   - Update the necessary environment variables in the .env file:
+- Update the necessary environment variables in the .env file:
    ```
    DB_CONNECTION=sqlite
    ```
-   - Comment out these: 
-        //DB_HOST=
-        //DB_PORT=
-        //DB_DATABASE=
-        //DB_USERNAME=
-        //DB_PASSWORD=
+    - Comment out these: 
+        + //DB_HOST=
+        + //DB_PORT=
+        + //DB_DATABASE=
+        + //DB_USERNAME=
+        + //DB_PASSWORD=
     
 3. Install dependencies:
 
@@ -78,7 +78,7 @@ npm run dev
 ```
 http://127.0.0.1:8000/order/{pizza-id}
 ```
-   - Example: http://127.0.0.1:8000/order/12650
+- Example: http://127.0.0.1:8000/order/12650
 10. Future enhancements:
 
     - In the next phase of development, we plan to add a simple button to directly view the order status.
